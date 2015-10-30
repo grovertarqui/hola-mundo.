@@ -1,0 +1,18 @@
+Qué he realizado desde la última reunión de Scrum Meeting?
+----------------------------------------------------------
+* He realizado las siguientes actividades
+        # Terminar el curso de Mobile Core Skills(All):
+	              ¬ Android Tutorial
+		                    ¬ swift Tutorial
+				    Qué realizaré antes de la próxima reunión de Scrum Meeting? 
+				    ---------------------------------------------------------------------
+				    * CONTINUAR CON LOS CURSOS RESTANTES DE APP  Mobile Core Skill (All):
+				            # profundizando el conocimiendo en:
+					                  ¬ Android Tutorial
+							                ¬ swift Tutorial
+									        # Comenzar con el siguiente curso:
+										              ¬ Worklinght developer Core Skills (All).
+
+											      Qué cosas impiden mi trabajo? 
+											      -----------------------------
+											       Por el momento ninguna....
